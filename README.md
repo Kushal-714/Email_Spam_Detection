@@ -1,1 +1,1 @@
-# Email_Spam_Detection
+I made E-mail Spam Detection model using Naive-Bayes algorithm.
